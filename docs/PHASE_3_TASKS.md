@@ -112,18 +112,18 @@
 - [ ] Add delete project confirmation dialog
 - [ ] Add back navigation
 
-### Phase 4: Entities (Basic CRUD)
+### Phase 4: Entities (Basic CRUD) ✅ **COMPLETE**
 
-- [ ] Create entity list page with filters
-- [ ] Create entity card component
-- [ ] Create entity data view component
-- [ ] Add view toggle (card/data)
-- [ ] Implement entity Redux slice
-- [ ] Add entity service API calls
-- [ ] Create entity form (basic fields only)
-- [ ] Add tag input component
-- [ ] Add search bar component
-- [ ] Add tag filter sidebar
+- [x] Create entity list page with filters
+- [x] Create entity card component
+- [x] Create entity data view component
+- [x] Add view toggle (card/data)
+- [x] Implement entity Redux slice
+- [x] Add entity service API calls
+- [x] Create entity form (basic fields only)
+- [x] Add tag input component
+- [x] Add search bar component
+- [x] Add tag filter sidebar
 
 ### Phase 5: Entity Types (Metadata)
 
@@ -157,9 +157,9 @@
 
 ## Current Status
 
-**Phase 3: Projects UI** - ✅ **COMPLETE!**
+**Phase 4: Entities (Basic CRUD)** - ✅ **COMPLETE!**
 
-**Next Phase:** Phase 4 - Entities (Basic CRUD)
+**Next Phase:** Phase 5 - Entity Types (Metadata)
 
 **Files Created:**
 
